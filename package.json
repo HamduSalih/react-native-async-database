@@ -1,0 +1,36 @@
+{
+  "name": "react-native-async-database",
+  "version": "1.0.0",
+  "description": "A react-native package built on top of AsyncStorage to easily us localstorage as database like firebase/firestore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamduSalih/react-native-async-database.git"
+  },
+  "keywords": [
+    "asyncstorage",
+    "async",
+    "storage",
+    "local",
+    "database",
+    "firestore",
+    "fireabase",
+    "localstorage"
+  ],
+  "author": "Hamdu Napari Salifu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamduSalih/react-native-async-database/issues"
+  },
+  "homepage": "https://github.com/HamduSalih/react-native-async-database#readme",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.6"
+  }
+}
