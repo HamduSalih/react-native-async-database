@@ -5,7 +5,7 @@ This package aims to imitate firebase's firestore for local storage using react 
 
 #### Note: Database means localstorage
 
-##What you can do in current version:
+## What you can do in current version:
 -Create collections
 -Add Documents to colletions
 -Merge data into existing
