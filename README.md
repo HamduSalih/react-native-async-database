@@ -16,11 +16,15 @@ This package aims to imitate firebase's firestore for local storage using react 
 - Get specific documents from a collection using a query
 
 ## Installation
-> yarn add react-native-async-database
-> npm install react-native-async-database
+```
+yarn add react-native-async-database
+npm install react-native-async-database
+```
 
 ## Usage
-> import AsyncDb from 'react-native-async-database'
+```
+import AsyncDb from 'react-native-async-database'
+```
 
 ## Function Examples
 
